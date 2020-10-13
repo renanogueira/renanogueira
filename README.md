@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<h2 align="left">Hi, I'm Renan Nogueira 👋🏽</h1>
+<h2 align="left">Hi there, I'm Renan Nogueira 👋🏽</h1>
 <p align=left>I am a <strong>front-end software engineer</strong>.</p>
 <p align="left">🚀 Skills: <strong>C#, Javascript, React and React Native.</strong></p>
 <p align="left">🌈 Currently studying: <strong>Next.JS and NestJS.</strong></p>
@@ -16,5 +16,6 @@
 </p>
 <br>
 
-[![renanogueira's github stats](https://github-readme-stats.vercel.app/api?username=renanogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanogueira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![renanogueira's github stats](https://github-readme-stats.vercel.app/api?username=renanogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanogueira&layout=compact&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![renanogueira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=renanogueira&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
