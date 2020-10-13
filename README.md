@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<h2 align="left">Hi, I'm Renan Serrão Nogueira 👋🏽</h1>
+<h2 align="left">Hi, I'm Renan Nogueira 👋🏽</h1>
 <p align=left>I'm studying <strong>Computer Engineering</strong>.</p>
 <p align="left">🚀 Skills: <strong>C#, Javascript, React and React Native.</strong></p>
 <p align="left">🌈 Currently studying: <strong>Next.JS and NestJS.</strong></p>
