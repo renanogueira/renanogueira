@@ -3,7 +3,7 @@
 <h2 align="left">Hi there, I'm Renan Nogueira 👋🏽</h1>
 <p align=left>I am a <strong>front-end software engineer</strong>.</p>
 <p align="left">🚀 Skills: <strong>C#, Javascript, React and React Native.</strong></p>
-<p align="left">🌈 Currently studying: <strong>Next.JS and NestJS.</strong></p>
+<!-- <p align="left">🌈 Currently studying: <strong>Next.JS and NestJS.</strong></p> -->
 <p align="left">💌 Social networks: ⤵️</p>
 
 <p align="left">
