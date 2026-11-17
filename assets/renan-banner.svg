@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Renan Nogueira — Software Engineer, Systems and Product Builder">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090714"/><stop offset="1" stop-color="#180b2b"/></linearGradient><linearGradient id="violet"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#6ee7f9"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#67429c" stroke-opacity=".16"/></pattern></defs>
+<rect width="1200" height="320" fill="url(#bg)"/><rect width="1200" height="320" fill="url(#grid)"/>
+<path d="M850 0 680 320M1020 0 850 320M1190 0 1020 320" stroke="#a78bfa" stroke-opacity=".14" stroke-width="2"/>
+<circle cx="1020" cy="154" r="110" fill="none" stroke="#a78bfa" stroke-opacity=".3"/><circle cx="1020" cy="154" r="82" fill="none" stroke="#6ee7f9" stroke-opacity=".2"/><path d="M980 114h80v80h-80zM960 154h120M1020 94v120" fill="none" stroke="#b794f4" stroke-opacity=".34"/>
+<rect x="55" y="47" width="9" height="9" fill="#8b5cf6"/><text x="76" y="56" fill="#a78bfa" font-family="monospace" font-size="17" letter-spacing="3">RENAN.DEV  /  SYSTEM ONLINE</text>
+<text x="56" y="151" fill="#f4efff" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="3">RENAN NOGUEIRA</text>
+<rect x="56" y="169" width="145" height="4" rx="2" fill="url(#violet)"/>
+<text x="56" y="218" fill="#c7b4e7" font-family="monospace" font-size="23">SOFTWARE ENGINEER  /  BUILDER</text>
+<text x="56" y="265" fill="#9c90b0" font-family="monospace" font-size="16">DESIGNING SYSTEMS. SHIPPING IDEAS.</text>
+<text x="1114" y="294" fill="#7f679f" font-family="monospace" font-size="14">001 // RN</text>
+</svg>
