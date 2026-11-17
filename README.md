@@ -30,7 +30,7 @@
 
 | Focus / Foco | Scope / Atuação |
 | :-- | :-- |
-| **Software Engineering** | Architecture · Backend · APIs · Web · React Native · Python |
+| **Software Engineering** | Architecture · Backend · APIs · Web · React Native · Flutter · Python |
 | **AI & Machine Learning** | LLMs · ML · AI agents · Model integration · Intelligent workflows |
 | **Systems & Automation** | Infrastructure · Distributed systems · Orchestration · Integrations |
 | **Product Engineering** | Prototyping · Technical strategy · End-to-end delivery |
@@ -52,7 +52,7 @@
 ### `04 / ENGINEERING SIGNAL · GITHUB`
 
 <div align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=renanogueira" alt="Renan Nogueira GitHub stats" /></a>
+  <a href="https://github-stats-extended.vercel.app/api?username=renanogueira&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight"><img src="https://github-stats-extended.vercel.app/api?username=renanogueira&amp;rank_icon=github&amp;custom_title=GitHub%20Stats&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight" alt="Renan Nogueira — GitHub Stats Extended" /></a>
 </div>
 
 <sub>Public activity is only one small part of engineering work. / Atividade pública é só uma pequena parte do trabalho de engenharia.</sub>
