@@ -4,11 +4,11 @@
 
 <br />
 
-**Software Engineer · Systems Thinker · Product Builder**
+**Software Engineer · AI Systems · Product Engineering**
 
-*Engineering reliable software, exploring intelligent automation, and turning ideas into products.*
+*Building software, intelligent systems, and products — from architecture to execution.*
 
-*Engenharia de software, automação inteligente e ideias que viram produtos.*
+*Construindo software, sistemas inteligentes e produtos — da arquitetura à execução.*
 
 <br />
 
@@ -22,37 +22,37 @@
 
 ### `01 / ABOUT · SOBRE`
 
-**EN** — I'm Renan, a software engineer who enjoys the space between architecture and execution: building applications, connecting systems, automating workflows, and experimenting with AI. I care about maintainable engineering, practical solutions, and products that solve real problems.
+**EN** — I'm Renan, a software engineer working across the product lifecycle: architecture, mobile and web development, backend systems, infrastructure, and AI. My work spans LLMs, machine learning, AI agents, and automation. I choose technologies based on the problem, not the other way around.
 
-**PT-BR** — Sou Renan, engenheiro de software, e gosto de atuar entre a arquitetura e a execução: desenvolver aplicações, integrar sistemas, automatizar processos e experimentar com IA. Valorizo engenharia sustentável, soluções práticas e produtos que resolvem problemas reais.
+**PT-BR** — Sou Renan, engenheiro de software com atuação de ponta a ponta: arquitetura, desenvolvimento mobile e web, backend, infraestrutura e IA. Trabalho com LLMs, machine learning, agentes de IA e automação. Escolho tecnologias de acordo com o problema, e não o contrário.
 
-### `02 / TOOLKIT · TECNOLOGIAS`
+### `02 / WHAT I BUILD · O QUE CONSTRUO`
 
-| Area / Área | Tools & technologies / Ferramentas e tecnologias |
+| Focus / Foco | Scope / Atuação |
 | :-- | :-- |
-| **Languages / Linguagens** | C# · JavaScript · TypeScript · Python · Dart |
-| **App development / Aplicações** | React · React Native · Flutter |
-| **Backend & integrations / Backend e integrações** | APIs · Firebase · Cloudflare · Docker |
-| **Interests / Interesses** | Software architecture · Automation · AI/LLMs · Developer tooling |
+| **Software Engineering** | Architecture · Backend · APIs · Web · React Native · Python |
+| **AI & Machine Learning** | LLMs · ML · AI agents · Model integration · Intelligent workflows |
+| **Systems & Automation** | Infrastructure · Distributed systems · Orchestration · Integrations |
+| **Product Engineering** | Prototyping · Technical strategy · End-to-end delivery |
 
-> **EN:** Tools change. Curiosity, solid fundamentals, and the drive to build stay.
+> **EN:** Languages and frameworks are tools. The goal is to build the right solution.
 >
-> **PT-BR:** Ferramentas mudam. Curiosidade, fundamentos sólidos e vontade de construir permanecem.
+> **PT-BR:** Linguagens e frameworks são ferramentas. O objetivo é construir a solução certa.
 
-### `03 / SELECTED WORK · PROJETOS`
+### `03 / FEATURED PROJECT · PROJETO EM DESTAQUE`
 
-A few public repositories to explore / Alguns repositórios públicos para conhecer:
+**[Rafão Cluster](https://github.com/renanogueira/rafao-cluster)**
 
-- **[dark-roo-bot](https://github.com/renanogueira/dark-roo-bot)** — Bot development / Desenvolvimento de bots.
-- **[flutter-bloc-example](https://github.com/renanogueira/flutter-bloc-example)** — Flutter & state management / Flutter e gerenciamento de estado.
-- **[gupy-job-scrapper](https://github.com/renanogueira/gupy-job-scrapper)** — Automation experiments / Experimentos de automação.
+**EN** — A cross-platform application for building a local LLM inference cluster from Windows, macOS, and Linux machines. It orchestrates llama.cpp RPC workers, GPU resources, and GGUF models through a visual interface.
 
-*More work happens behind the scenes. / Outros projetos também acontecem nos bastidores.*
+**PT-BR** — Aplicação multiplataforma para montar um cluster local de inferência de LLMs com máquinas Windows, macOS e Linux. Orquestra workers RPC do llama.cpp, recursos de GPU e modelos GGUF por meio de uma interface visual.
+
+*Currently named Rafão Cluster; the project may be renamed. / Atualmente chamado Rafão Cluster; o projeto poderá mudar de nome.*
 
 ### `04 / ENGINEERING SIGNAL · GITHUB`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renanogueira&show_icons=true&hide_border=true&bg_color=0D0A17&title_color=A78BFA&icon_color=67E8F9&text_color=DDD6FE" alt="Renan's GitHub statistics" height="165" />
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=renanogueira" alt="Renan Nogueira GitHub stats" /></a>
 </div>
 
 <sub>Public activity is only one small part of engineering work. / Atividade pública é só uma pequena parte do trabalho de engenharia.</sub>
