@@ -51,7 +51,7 @@
 
 ### `04 / ENGINEERING SIGNAL · GITHUB`
 
-<div align="center">
+<div align="left">
   <a href="https://github-stats-extended.vercel.app/api?username=renanogueira&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight"><img src="https://github-stats-extended.vercel.app/api?username=renanogueira&amp;rank_icon=github&amp;custom_title=GitHub%20Stats&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight" alt="Renan Nogueira — GitHub Stats Extended" /></a>
 </div>
 
