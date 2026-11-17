@@ -52,7 +52,7 @@
 ### `04 / ENGINEERING SIGNAL · GITHUB`
 
 <div align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=renanogueira&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=contributions&bg_color=0D0A17&title_color=A78BFA&text_color=DDD6FE&icon_color=67E8F9&ring_color=A78BFA&border_color=3B2855&border_radius=10&custom_title=RENAN%20%2F%2F%20GITHUB%20SIGNAL" alt="Renan Nogueira GitHub stats" /></a>
+  <a href="https://github-stats-extended.vercel.app/api?username=renanogueira&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight"><img src="https://github-stats-extended.vercel.app/api?username=renanogueira&amp;rank_icon=github&amp;custom_title=GitHub%20Stats&amp;show_icons=true&amp;include_all_commits=true&amp;theme=tokyonight" alt="Renan Nogueira — GitHub Stats Extended" /></a>
 </div>
 
 <sub>Public activity is only one small part of engineering work. / Atividade pública é só uma pequena parte do trabalho de engenharia.</sub>
